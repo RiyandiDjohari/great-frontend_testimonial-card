@@ -7,7 +7,7 @@ Welcome to the GreatFrontEnd Projects platform! Join our [Discord server](https:
 This is a starter template for your challenge.
 
 ## Overview Project
-![preview project](./designs/desktop.jpg)
+![preview project](./designs/Desktop.jpg)
 
 ## Getting started
 
